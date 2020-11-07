@@ -36,10 +36,10 @@ Para construir o projeto do MVP foram gerados os seguintes artefatos:
 
 Inicialmente o easyToDoList terá versões para plataforma web e Android mobile, conforme documentado no subtópico 2.4 das especificações dos requisitos.
 
--Ferramentas utilizadas para o desenvolvimento das aplicações: As IDEs PHP Storm e Android Studio.
--Ferramentas para o BackEnd das aplicações: Framework MVC symfony 5 (linguagem PHP) e Banco de dados PostegreeSQL.
--Ferramentas para o FrontEnd da aplicação web: Twig Engine (motor de templates do symfony) e HTML5 (html, css, javascript).
--Ferramentas para aplicação Mobile: linguagem de programação kotlin e banco de dados SQLite.
+- Ferramentas utilizadas para o desenvolvimento das aplicações: As IDEs PHP Storm e Android Studio.
+- Ferramentas para o BackEnd das aplicações: Framework MVC symfony 5 (linguagem PHP) e Banco de dados PostegreeSQL.
+- Ferramentas para o FrontEnd da aplicação web: Twig Engine (motor de templates do symfony) e HTML5 (html, css, javascript).
+- Ferramentas para aplicação Mobile: linguagem de programação kotlin e banco de dados SQLite.
 
 
 

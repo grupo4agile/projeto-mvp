@@ -22,7 +22,14 @@ Organizar, priorizar e monitorar as atividades de um projeto são as principais 
 estão precisando de um sistema de fácil acesso e uso, capazes de gerenciar todas as tarefas envolvidas em seus projetos. Pensando nestes pormenores, iniciamos um projeto de MVP do EasyToDoList que poderá agregar bastante valor aos seus usuários de forma simples e funcional.
 
 ### Artefatos do projeto
-Para construir o projeto do MVP nos baseamos em artefatos essenciais e imprescindíveis que todo negócio deve conter para ser bem planejado...
+Para construir o projeto do MVP foram gerados os seguintes artefatos: 
+
+- [Business Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Business%20Model%20Canvas.pdf)
+- [Project Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Project%20Model%20Canvas.pdf)
+- [Prototipos]()
+- [Backlog](https://github.com/grupo4agile/projeto-mvp/issues)
+- [Documento de Especificação de Requisitos](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf)
+- [Casos de uso](https://github.com/grupo4agile/projeto-mvp/tree/main/documentacao/casos_de_uso)
 
 
 ### Ferramentas de Desenvolvimento

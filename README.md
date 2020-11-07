@@ -1,4 +1,5 @@
-## Desafio - Início do MVP da disciplina (???) Fundamentos do Processo Ágil de Desenvolvimento de Software, Pós-graduação Lato Sensu (Especialização) Residência Em Desenvolvimento De Software 
+## Desafio - Início do MVP da disciplina Fundamentos do Processo Ágil de Desenvolvimento de Software, Pós-graduação Lato Sensu (Especialização) Residência Em Desenvolvimento De Software 
+
 Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 
 ## EasyToDoList - Projeto do MVP
@@ -41,7 +42,6 @@ Inicialmente o easyToDoList terá versões para plataforma web e Android mobile,
 - Ferramentas para o BackEnd das aplicações: Framework MVC symfony 5 (linguagem PHP) e Banco de dados PostegreeSQL.
 - Ferramentas para o FrontEnd da aplicação web: Twig Engine (motor de templates do symfony) e HTML5 (html, css, javascript).
 - Ferramentas para aplicação Mobile: linguagem de programação kotlin e banco de dados SQLite.
-
 
 
 ### Backlog

@@ -36,7 +36,7 @@ Para construir o projeto do MVP foram gerados os seguintes artefatos:
 
 ### Ferramentas de Desenvolvimento
 
-Inicialmente o easyToDoList terá versões para plataforma web e Android mobile, conforme documentado no subtópico 2.4 das especificações dos requisitos.
+Inicialmente o easyToDoList terá versões para plataforma web e Android mobile, conforme documentado no subtópico 2.4 da [Especificação de Requisitos de Software](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf).
 
 - Ferramentas utilizadas para o desenvolvimento das aplicações: As IDEs PHP Storm e Android Studio.
 - Ferramentas para o BackEnd das aplicações: Framework MVC symfony 5 (linguagem PHP) e Banco de dados PostegreeSQL.

@@ -29,7 +29,7 @@ Para construir o projeto do MVP foram gerados os seguintes artefatos:
 - [Business Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Business%20Model%20Canvas.pdf)
 - [Project Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Project%20Model%20Canvas.pdf)
 - [Prototipos](#ancora1)
-- [Backlog](https://github.com/grupo4agile/projeto-mvp/issues)
+- [Backlog](#ancora2)
 - [Documento de Especificação de Requisitos](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf)
 - [Casos de uso](https://github.com/grupo4agile/projeto-mvp/tree/main/documentacao/casos_de_uso)
 
@@ -44,12 +44,15 @@ Inicialmente o easyToDoList terá versões para plataforma web e Android mobile,
 - Ferramentas para aplicação Mobile: linguagem de programação kotlin e banco de dados SQLite.
 
 
+<a id="ancora2"></a>
 ### Backlog
 
 Por se tratar de um MVP, o [backlog](https://github.com/grupo4agile/projeto-mvp/issues)  foi organizado com atividades básicas, de acordo com a estrutura da aplicação fornecida pelos requisitos funcionais descritos no documento de 
 [Especificação de Requisitos de Software](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf).
  
-A organização deste backlog deixa bem clara, enxuta e sucinta as atividades tanto para a equipe de desenvolvedores executar quanto para a equipe de gestão gerenciar e monitorar. 
+A organização deste backlog deixa bem clara, enxuta e sucinta as atividades tanto para a equipe de desenvolvedores executar quanto para a equipe de gestão gerenciar e monitorar.
+
+
 <a id="ancora1"></a>
 ### Protótipo das Telas
 

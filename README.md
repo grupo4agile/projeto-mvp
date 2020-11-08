@@ -53,4 +53,7 @@ A organização deste backlog deixa bem clara, enxuta e sucinta as atividades ta
 
 ### Protótipo das Telas
 
-O desenho das telas do sistema web, bem como o do aplicativo EasyToDoList você poderá encontrar [aqui](https://marvelapp.com/prototype/26a9351g/screen/74164664).
+Criamos as interfaces de média fidelidade tanto para o aplicativo quanto para o sistema web usando a ferramenta marvel app.
+
+- [Mobile](https://marvelapp.com/prototype/26a9351g/screen/74164664).
+- [Sistema Web]().

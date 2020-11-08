@@ -29,7 +29,7 @@ Para construir o projeto do MVP foram gerados os seguintes artefatos:
 - [Business Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Business%20Model%20Canvas.pdf)
 - [Project Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Project%20Model%20Canvas.pdf)
 - [PrototipoApp](#ancora3)
-- [PrototipoWeb](#aconra1)
+- [PrototipoWeb](#ancora1)
 - [Backlog](#ancora2)
 - [Documento de Especificação de Requisitos](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf)
 - [Casos de uso](https://github.com/grupo4agile/projeto-mvp/tree/main/documentacao/casos_de_uso)

@@ -44,6 +44,7 @@ Inicialmente o easyToDoList terá versões para plataforma web e Android mobile,
 - Ferramentas para aplicação Mobile: linguagem de programação kotlin e banco de dados SQLite.
 
 
+
 <a id="ancora2"></a>
 ### Backlog
 
@@ -51,6 +52,8 @@ Por se tratar de um MVP, o [backlog](https://github.com/grupo4agile/projeto-mvp/
 [Especificação de Requisitos de Software](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf).
  
 A organização deste backlog deixa bem clara, enxuta e sucinta as atividades tanto para a equipe de desenvolvedores executar quanto para a equipe de gestão gerenciar e monitorar.
+
+
 
 
 <a id="ancora1"></a>

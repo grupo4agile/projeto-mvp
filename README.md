@@ -46,9 +46,9 @@ Inicialmente o easyToDoList terá versões para plataforma web e Android mobile,
 
 
 
-<a id="ancora2"></a>
-### Backlog
 
+### Backlog
+<a id="ancora2"></a>
 Por se tratar de um MVP, o [backlog](https://github.com/grupo4agile/projeto-mvp/issues)  foi organizado com atividades básicas, de acordo com a estrutura da aplicação fornecida pelos requisitos funcionais descritos no documento de 
 [Especificação de Requisitos de Software](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf).
  

@@ -60,7 +60,7 @@ A organização deste backlog deixa bem clara, enxuta e sucinta as atividades ta
 
 ### Protótipo das Telas
 
-Criamos interfaces de média fidelidade tanto para o aplicativo quanto para o sistema web. Utilizamos a ferramenta de prototipagem [Marvel App](https://marvelapp.com/).
+Criamos interfaces de média fidelidade tanto para o aplicativo quanto para o sistema web. Por se tratar de um MVP, portanto, diferetemente da versão completa, criamos as telas retratando apenas com as funcionalidades mínimas que o produto deverá apresentar. Utilizamos a ferramenta de prototipagem [Marvel App](https://marvelapp.com/).
 
   
 - [Mobile](https://marvelapp.com/prototype/26a9351g/screen/74164664).

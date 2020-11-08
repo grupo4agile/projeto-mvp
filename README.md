@@ -57,7 +57,6 @@ A organização deste backlog deixa bem clara, enxuta e sucinta as atividades ta
 
 
 
-<a id="ancora1"></a>
 ### Protótipo das Telas
 
 Criamos as interfaces de média fidelidade tanto para o aplicativo quanto para o sistema web. Utilizamos a ferramenta de prototipagem [Marvel App](https://marvelapp.com/).

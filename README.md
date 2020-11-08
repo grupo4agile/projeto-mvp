@@ -6,7 +6,7 @@ Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 ### Equipe:
 - Luana Cristina ([@LuanaCristinaAS](https://github.com/LuanaCristinaAS))
 - Heládio Alves ([@](https://github.com/))
-- Joel Galdino([@](https://github.com/))
+- Joel Galdino([@jogagofi](https://github.com/jogagofi))
 - Paulo Varejão ([@PauloDeveloperBR](https://github.com/PauloDeveloperBR))
 - Mariana Duque ([@maricduque](https://github.com/maricduque))
 

@@ -56,4 +56,4 @@ A organização deste backlog deixa bem clara, enxuta e sucinta as atividades ta
 Criamos as interfaces de média fidelidade tanto para o aplicativo quanto para o sistema web. Utilizamos a ferramenta de prototipagem [Marvel App](https://marvelapp.com/).
 
 - [Mobile](https://marvelapp.com/prototype/26a9351g/screen/74164664).
-- [Sistema Web]().
+- [Sistema Web](https://marvelapp.com/prototype/9699887).

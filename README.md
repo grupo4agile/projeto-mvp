@@ -28,7 +28,7 @@ Para construir o projeto do MVP foram gerados os seguintes artefatos:
 
 - [Business Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Business%20Model%20Canvas.pdf)
 - [Project Model Canvas](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Project%20Model%20Canvas.pdf)
-- [PrototipoApp](https://marvelapp.com/prototype/26a9351g)
+- [PrototipoApp](#ancora3)
 - [PrototipoWeb](#aconra1)
 - [Backlog](#ancora2)
 - [Documento de Especificação de Requisitos](https://github.com/grupo4agile/projeto-mvp/blob/main/documentacao/Especifica%C3%A7%C3%A3o%20dos%20Requisitos%20EasyToDo%20-%20G4.pdf)
@@ -62,5 +62,8 @@ A organização deste backlog deixa bem clara, enxuta e sucinta as atividades ta
 
 Criamos as interfaces de média fidelidade tanto para o aplicativo quanto para o sistema web. Utilizamos a ferramenta de prototipagem [Marvel App](https://marvelapp.com/).
 
+  <a id="ancora3"></a>
 - [Mobile](https://marvelapp.com/prototype/26a9351g/screen/74164664).
+
+<a id="ancora1"></a>
 - [Sistema Web](https://marvelapp.com/prototype/9699887).

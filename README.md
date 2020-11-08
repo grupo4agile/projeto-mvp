@@ -5,7 +5,7 @@ Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 ## EasyToDoList - Projeto do MVP
 ### Equipe:
 - Luana Cristina ([@LuanaCristinaAS](https://github.com/LuanaCristinaAS))
-- Heládio Alves ([@](https://github.com/))
+- Heládio Alves ([@HeladioAlmeida77](https://github.com/HeladioAlmeida77))
 - Joel Galdino([@jogagofi](https://github.com/jogagofi))
 - Paulo Varejão ([@PauloDeveloperBR](https://github.com/PauloDeveloperBR))
 - Mariana Duque ([@maricduque](https://github.com/maricduque))
